@@ -1,0 +1,2 @@
+# Flexbox-Layout
+This project is to show experience with Flexbox from the FreeCodeCamp medium [article](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.1oix7dk8p)
